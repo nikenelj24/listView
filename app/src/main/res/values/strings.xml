@@ -1,3 +1,7 @@
 <resources>
+<<<<<<< HEAD
     <string name="app_name">listviewB1</string>
+=======
+    <string name="app_name">ListView</string>
+>>>>>>> f41dc7a5a00afb2752bf45deb51735faa42d8fc3
 </resources>

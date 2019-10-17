@@ -1,2 +1,6 @@
 include ':app'
+<<<<<<< HEAD
 rootProject.name='listviewB1'
+=======
+rootProject.name='ListView'
+>>>>>>> f41dc7a5a00afb2752bf45deb51735faa42d8fc3
